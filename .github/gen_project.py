@@ -16,7 +16,7 @@ for root, dirs, files in os.walk("."):
     dirs[:] = [d for d in dirs if not d.startswith(".") and d != ".build" and d != ".github"]
     for f in files:
         if f.endswith(".swift") and f != "Package.swift":
-            srcs.append(os.path.normpath(os.path.join(root, f)))
+            srcs.append(os.path.join(root, f).replace("\\", "/").lstrip("./"))
 srcs.sort()
 
 # IDs
