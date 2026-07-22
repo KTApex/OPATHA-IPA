@@ -6,457 +6,248 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXFileReference section */
-		7EEDC07922CD4819ACD3D9E1 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "MockData.swift";
-			path = "Models/MockData.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		DF5F9F9A94ED4953BE25B159 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "PhotoItem.swift";
-			path = "Models/PhotoItem.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		C303AFD72F2E41F3A632B7D2 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "SlideshowOptions.swift";
-			path = "Models/SlideshowOptions.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		EE70EA666C1346828DCDF659 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "PhotosApp.swift";
-			path = "PhotosApp.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		DEB16AE1290C40C0B0473FC2 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "AuthenticationService.swift";
-			path = "Services/AuthenticationService.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		71046EB43DED48A3A665D299 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "PhotosViewModel.swift";
-			path = "ViewModels/PhotosViewModel.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		A2DA6CBE6D314EF697912AE7 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "SlideshowViewModel.swift";
-			path = "ViewModels/SlideshowViewModel.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		7B86BB55553745EBA21F949C /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "LockScreenView.swift";
-			path = "Views/LockScreenView.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		A31E208D925C4715B4AB34B5 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "PhotoDetailView.swift";
-			path = "Views/PhotoDetailView.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		5FA596CF584142C9AA6776A2 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "PhotosGridView.swift";
-			path = "Views/PhotosGridView.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		E42212187594433B9BFBEC7B /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "SlideshowOptionsView.swift";
-			path = "Views/SlideshowOptionsView.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		872B05B233674208BED4D6FB /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "sourcecode.swift";
-			name = "SlideshowView.swift";
-			path = "Views/SlideshowView.swift";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		8B185EEDB99C4AB893E9A724 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			lastKnownFileType = "text.plist.xml";
-			name = "Info.plist";
-			path = "Info.plist";
-			sourceTree = "<group>";
-		};
-/* End PBXFileReference section */
-
-/* Begin PBXFileReference section */
-		448DEC1F24EF44D1B7886A95 /* PhotosApp */ = {
-			isa = PBXFileReference;
-			explicitFileType = "wrapper.application";
-			includeInIndex = 0;
-			path = "PhotosApp.app";
-			sourceTree = "BUILT_PRODUCTS_DIR";
-		};
-/* End PBXFileReference section */
-
 /* Begin PBXBuildFile section */
-		45E89163A2CF4D57BE521DC4 /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "7EEDC07922CD4819ACD3D9E1";
-		};
+		010000000000000000000001 /* MockData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000001; };
+		010000000000000000000002 /* PhotoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000002; };
+		010000000000000000000003 /* SlideshowOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000003; };
+		010000000000000000000004 /* PhotosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000004; };
+		010000000000000000000005 /* AuthenticationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000005; };
+		010000000000000000000006 /* PhotosViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000006; };
+		010000000000000000000007 /* SlideshowViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000007; };
+		010000000000000000000008 /* LockScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000008; };
+		010000000000000000000009 /* PhotoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020000000000000000000009; };
+		01000000000000000000000A /* PhotosGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02000000000000000000000A; };
+		01000000000000000000000B /* SlideshowOptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02000000000000000000000B; };
+		01000000000000000000000C /* SlideshowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02000000000000000000000C; };
 /* End PBXBuildFile section */
 
-/* Begin PBXBuildFile section */
-		D569AA18683B443AA924E644 /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "DF5F9F9A94ED4953BE25B159";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		D242C35736374ACB8BD8B72B /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "C303AFD72F2E41F3A632B7D2";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		378B92F12ECD4E7EAB4787F5 /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "EE70EA666C1346828DCDF659";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		9B4D47411B124B499DEBDBAF /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "DEB16AE1290C40C0B0473FC2";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		09570B28F4B04513AC0887E4 /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "71046EB43DED48A3A665D299";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		0C0B00006FD1494E99F498CF /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "A2DA6CBE6D314EF697912AE7";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		E408ACC87C38441FA633EC9A /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "7B86BB55553745EBA21F949C";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		85122F80DCA54B5C862CF1F6 /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "A31E208D925C4715B4AB34B5";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		39DBC781BC6C4A9CA276A8EF /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "5FA596CF584142C9AA6776A2";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		B1762AB99E774A43BDE810E3 /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "E42212187594433B9BFBEC7B";
-		};
-/* End PBXBuildFile section */
-
-/* Begin PBXBuildFile section */
-		2BD60EF8366D4415920E0D29 /* PhotosApp */ = {
-			isa = PBXBuildFile;
-			fileRef = "872B05B233674208BED4D6FB";
-		};
-/* End PBXBuildFile section */
+/* Begin PBXFileReference section */
+		020000000000000000000001 /* MockData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/MockData.swift; sourceTree = "<group>"; };
+		020000000000000000000002 /* PhotoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/PhotoItem.swift; sourceTree = "<group>"; };
+		020000000000000000000003 /* SlideshowOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/SlideshowOptions.swift; sourceTree = "<group>"; };
+		020000000000000000000004 /* PhotosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosApp.swift; sourceTree = "<group>"; };
+		020000000000000000000005 /* AuthenticationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/AuthenticationService.swift; sourceTree = "<group>"; };
+		020000000000000000000006 /* PhotosViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/PhotosViewModel.swift; sourceTree = "<group>"; };
+		020000000000000000000007 /* SlideshowViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels/SlideshowViewModel.swift; sourceTree = "<group>"; };
+		020000000000000000000008 /* LockScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/LockScreenView.swift; sourceTree = "<group>"; };
+		020000000000000000000009 /* PhotoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/PhotoDetailView.swift; sourceTree = "<group>"; };
+		02000000000000000000000A /* PhotosGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/PhotosGridView.swift; sourceTree = "<group>"; };
+		02000000000000000000000B /* SlideshowOptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/SlideshowOptionsView.swift; sourceTree = "<group>"; };
+		02000000000000000000000C /* SlideshowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/SlideshowView.swift; sourceTree = "<group>"; };
+		02000000000000000000000D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		030000000000000000000001 /* PhotosApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotosApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		FE18FA55BEDA4054AD1B0DC9 /* PhotosApp */ = {
+		040000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
-			"7EEDC07922CD4819ACD3D9E1",
-			"DF5F9F9A94ED4953BE25B159",
-			"C303AFD72F2E41F3A632B7D2",
-			"EE70EA666C1346828DCDF659",
-			"DEB16AE1290C40C0B0473FC2",
-			"71046EB43DED48A3A665D299",
-			"A2DA6CBE6D314EF697912AE7",
-			"7B86BB55553745EBA21F949C",
-			"A31E208D925C4715B4AB34B5",
-			"5FA596CF584142C9AA6776A2",
-			"E42212187594433B9BFBEC7B",
-			"872B05B233674208BED4D6FB",
-			"8B185EEDB99C4AB893E9A724"
-		);
-			name = "PhotosApp";
+				020000000000000000000001,
+				020000000000000000000002,
+				020000000000000000000003,
+				020000000000000000000004,
+				020000000000000000000005,
+				020000000000000000000006,
+				020000000000000000000007,
+				020000000000000000000008,
+				020000000000000000000009,
+				02000000000000000000000A,
+				02000000000000000000000B,
+				02000000000000000000000C,
+				02000000000000000000000D,
+			);
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
-/* Begin PBXSourcesBuildPhase section */
-		BD39606E60E34EC7BC95DC3F /* PhotosApp */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			"45E89163A2CF4D57BE521DC4",
-			"D569AA18683B443AA924E644",
-			"D242C35736374ACB8BD8B72B",
-			"378B92F12ECD4E7EAB4787F5",
-			"9B4D47411B124B499DEBDBAF",
-			"09570B28F4B04513AC0887E4",
-			"0C0B00006FD1494E99F498CF",
-			"E408ACC87C38441FA633EC9A",
-			"85122F80DCA54B5C862CF1F6",
-			"39DBC781BC6C4A9CA276A8EF",
-			"B1762AB99E774A43BDE810E3",
-			"2BD60EF8366D4415920E0D29"
-		);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXSourcesBuildPhase section */
-
-/* Begin PBXFrameworksBuildPhase section */
-		BEBEB54AC1B048BD8F29D9A9 /* PhotosApp */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-
-		);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXFrameworksBuildPhase section */
-
-/* Begin PBXResourcesBuildPhase section */
-		CC01879199F1435994A823E2 /* PhotosApp */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-
-		);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXResourcesBuildPhase section */
-
-/* Begin XCBuildConfiguration section */
-		1703BDD957F840309A4FA35B /* PhotosApp */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-			ALWAYS_SEARCH_USER_PATHS = "NO";
-			CLANG_ENABLE_MODULES = "YES";
-			CODE_SIGN_IDENTITY = "";
-			CODE_SIGNING_ALLOWED = "NO";
-			CODE_SIGNING_REQUIRED = "NO";
-			IPHONEOS_DEPLOYMENT_TARGET = "15.0";
-			SDKROOT = "iphoneos";
-			SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-			SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG";
-		};
-			name = "Debug";
-		};
-/* End XCBuildConfiguration section */
-
-/* Begin XCBuildConfiguration section */
-		D2D0578C0B4F4CC088EA04B1 /* PhotosApp */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-			ALWAYS_SEARCH_USER_PATHS = "NO";
-			CLANG_ENABLE_MODULES = "YES";
-			CODE_SIGN_IDENTITY = "";
-			CODE_SIGNING_ALLOWED = "NO";
-			CODE_SIGNING_REQUIRED = "NO";
-			IPHONEOS_DEPLOYMENT_TARGET = "15.0";
-			SDKROOT = "iphoneos";
-			SWIFT_OPTIMIZATION_LEVEL = "-O";
-			VALIDATE_PRODUCT = "YES";
-		};
-			name = "Release";
-		};
-/* End XCBuildConfiguration section */
-
-/* Begin XCConfigurationList section */
-		A9A0910E55AE4813A30242F2 /* PhotosApp */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-			"1703BDD957F840309A4FA35B",
-			"D2D0578C0B4F4CC088EA04B1"
-		);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "Release";
-		};
-/* End XCConfigurationList section */
-
-/* Begin XCBuildConfiguration section */
-		29201559D12240B191ABE32C /* PhotosApp */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-			ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
-			CODE_SIGN_IDENTITY = "";
-			CODE_SIGNING_ALLOWED = "NO";
-			CODE_SIGNING_REQUIRED = "NO";
-			CURRENT_PROJECT_VERSION = "1";
-			ENABLE_PREVIEWS = "YES";
-			INFOPLIST_FILE = "Info.plist";
-			IPHONEOS_DEPLOYMENT_TARGET = "15.0";
-			LD_RUNPATH_SEARCH_PATHS = (
-				$(inherited),
-				"@executable_path/Frameworks"
-			);
-			MARKETING_VERSION = "1.0";
-			PRODUCT_BUNDLE_IDENTIFIER = "com.example.photosapp";
-			PRODUCT_NAME = $(TARGET_NAME);
-			SWIFT_VERSION = "5.0";
-			TARGETED_DEVICE_FAMILY = "1,2";
-			SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-		};
-			name = "Debug";
-		};
-/* End XCBuildConfiguration section */
-
-/* Begin XCBuildConfiguration section */
-		6FC75D96DDD64FD5A7D25637 /* PhotosApp */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-			ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
-			CODE_SIGN_IDENTITY = "";
-			CODE_SIGNING_ALLOWED = "NO";
-			CODE_SIGNING_REQUIRED = "NO";
-			CURRENT_PROJECT_VERSION = "1";
-			ENABLE_PREVIEWS = "YES";
-			INFOPLIST_FILE = "Info.plist";
-			IPHONEOS_DEPLOYMENT_TARGET = "15.0";
-			LD_RUNPATH_SEARCH_PATHS = (
-				$(inherited),
-				"@executable_path/Frameworks"
-			);
-			MARKETING_VERSION = "1.0";
-			PRODUCT_BUNDLE_IDENTIFIER = "com.example.photosapp";
-			PRODUCT_NAME = $(TARGET_NAME);
-			SWIFT_VERSION = "5.0";
-			TARGETED_DEVICE_FAMILY = "1,2";
-		};
-			name = "Release";
-		};
-/* End XCBuildConfiguration section */
-
-/* Begin XCConfigurationList section */
-		0EAF1B2F15934C91ADC80925 /* PhotosApp */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-			"29201559D12240B191ABE32C",
-			"6FC75D96DDD64FD5A7D25637"
-		);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "Release";
-		};
-/* End XCConfigurationList section */
-
 /* Begin PBXNativeTarget section */
-		F3293CE76BF54C37BFCE573D /* PhotosApp */ = {
+		050000000000000000000001 /* PhotosApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = "0EAF1B2F15934C91ADC80925";
+			buildConfigurationList = 080000000000000000000001;
 			buildPhases = (
-			"BD39606E60E34EC7BC95DC3F",
-			"BEBEB54AC1B048BD8F29D9A9",
-			"CC01879199F1435994A823E2"
-		);
+				060000000000000000000001,
+				060000000000000000000002,
+				060000000000000000000003,
+			);
 			buildRules = (
-
-		);
+			);
 			dependencies = (
-
-		);
-			name = "PhotosApp";
-			productName = "PhotosApp";
-			productReference = "448DEC1F24EF44D1B7886A95";
+			);
+			name = PhotosApp;
+			productName = PhotosApp;
+			productReference = 030000000000000000000001;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F3758898E02B46648A65880A /* PhotosApp */ = {
+		070000000000000000000001 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-			BuildIndependentTargetsInParallel = 1;
-			LastSwiftUpdateCheck = 1500;
-			LastUpgradeCheck = 1500;
-		};
-			buildConfigurationList = "A9A0910E55AE4813A30242F2";
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 080000000000000000000002;
 			compatibilityVersion = "Xcode 13.0";
-			developmentRegion = "en";
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-			"en",
-			"Base"
-		);
-			mainGroup = "FE18FA55BEDA4054AD1B0DC9";
-			productRefGroup = "FE18FA55BEDA4054AD1B0DC9";
+				en,
+				Base,
+			);
+			mainGroup = 040000000000000000000001;
+			productRefGroup = 040000000000000000000001;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-			"F3293CE76BF54C37BFCE573D"
-		);
+				050000000000000000000001,
+			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		060000000000000000000003 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		060000000000000000000002 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		060000000000000000000001 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				010000000000000000000001,
+				010000000000000000000002,
+				010000000000000000000003,
+				010000000000000000000004,
+				010000000000000000000005,
+				010000000000000000000006,
+				010000000000000000000007,
+				010000000000000000000008,
+				010000000000000000000009,
+				01000000000000000000000A,
+				01000000000000000000000B,
+				01000000000000000000000C,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		090000000000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		090000000000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		090000000000000000000003 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.photosapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		090000000000000000000004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.photosapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		080000000000000000000001 /* Build configuration list for PBXNativeTarget "PhotosApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				090000000000000000000003,
+				090000000000000000000004,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		080000000000000000000002 /* Build configuration list for PBXProject "PhotosApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				090000000000000000000001,
+				090000000000000000000002,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
 	};
-	rootObject = F3758898E02B46648A65880A;
+	rootObject = 070000000000000000000001 /* Project object */;
 }
